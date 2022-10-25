@@ -15,7 +15,7 @@
                     - Libro
                 Cosa compro?
                     - SE (Lampada da tavolo è disponibile) & (Arriverà in tempo /* prime */) & (Rientra nel budget)
-                        -TRUE
+                        - TRUE
                             - Comprerò una lampada da tavolo
                         - FALSE
                             - Comprerò qualcos' altro
